@@ -1,0 +1,7 @@
+Hello world
+Hi
+
+Hello babu
+The file count is 4
+The file count is 5
+The line count is 6

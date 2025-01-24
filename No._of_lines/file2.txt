@@ -1,0 +1,9 @@
+Hi 
+Hello 
+Line 3
+Shell scripting
+
+
+The file count is 6
+The file count is 7
+The line count is 8
